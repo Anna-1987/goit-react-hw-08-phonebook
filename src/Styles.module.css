@@ -102,6 +102,7 @@
   font-size: 25px;
   transition-duration: 800ms;
   color: var(--navlink__color);
+  -webkit-text-stroke: 1px rgb(16, 38, 16);
   margin-right: 20px;
 }
 
