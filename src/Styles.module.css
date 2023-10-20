@@ -17,7 +17,7 @@
   row-gap: 15px;
   flex-direction: column;
   padding: 100px var(--glob-padding);
-  background:rgb(144, 223, 144);
+  background-color:rgb(144, 223, 144);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
