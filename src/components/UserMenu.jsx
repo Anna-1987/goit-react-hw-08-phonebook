@@ -11,8 +11,7 @@ export default function UserMenu() {
     <div className={s.user__container}>
       <p className={s.user__link}>Welcome, </p>
       <p className={s.user__name}>{name} </p>
-      <p className={s.user__smile}>😃</p>
-      <button
+        <button
         className={s.user__btn}
         type="submit"
         onClick={() => {
