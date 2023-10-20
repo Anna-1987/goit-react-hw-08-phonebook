@@ -12,8 +12,8 @@
 
   --navlink__hover: #ececf1;
 
-  --btn__red: rgba(232, 120, 14, 0.5);
-  --btn__green: rgba(137, 234, 85, 0.5);
+  --btn__red: rgba(232, 14, 14);
+  --btn__green: rgb(126, 248, 61);
   --btn__shadow: 0 0 2px #333;
 }
 
